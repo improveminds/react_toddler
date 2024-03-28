@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_toddler/static/css/main.497a33c5.css",
+    "main.js": "/react_toddler/static/js/main.bab79fb4.js",
+    "static/js/787.5863b875.chunk.js": "/react_toddler/static/js/787.5863b875.chunk.js",
+    "static/media/water.png": "/react_toddler/static/media/water.357745c5038451422aa6.png",
+    "static/media/White-Puppy.png": "/react_toddler/static/media/White-Puppy.4aa1ee3bb5aafd4ea548.png",
+    "static/media/ice.png": "/react_toddler/static/media/ice.3018c50f518d7d15d1d4.png",
+    "static/media/carengine.aac": "/react_toddler/static/media/carengine.f3df64f403b1e5711209.aac",
+    "static/media/C.png": "/react_toddler/static/media/C.1049d92862be33b7e2cc.png",
+    "static/media/A.png": "/react_toddler/static/media/A.4911f5032cb130e993e0.png",
+    "static/media/doggy.aac": "/react_toddler/static/media/doggy.2216915e2973a645dd03.aac",
+    "static/media/B.png": "/react_toddler/static/media/B.3342d4f1250dce60cae9.png",
+    "static/media/car.png": "/react_toddler/static/media/car.63d02e6dcc2ac8e1d248.png",
+    "static/media/logo.svg": "/react_toddler/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react_toddler/index.html",
+    "main.497a33c5.css.map": "/react_toddler/static/css/main.497a33c5.css.map",
+    "main.bab79fb4.js.map": "/react_toddler/static/js/main.bab79fb4.js.map",
+    "787.5863b875.chunk.js.map": "/react_toddler/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497a33c5.css",
+    "static/js/main.bab79fb4.js"
+  ]
+}
