@@ -30,9 +30,7 @@ export const DraggableComponent = () => {
     <Draggable>
         <img src={ice} width="126px" height="156" alt="ice"/>
     </Draggable>
-    <Draggable>
-        <img src={ice} width="126px" height="156" alt="ice"/>
-    </Draggable>
+  
     <Draggable>
         <img src={ice} width="126px" height="156" alt="ice"/>
     </Draggable>
